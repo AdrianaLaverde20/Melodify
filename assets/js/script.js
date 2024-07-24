@@ -54,7 +54,7 @@ const musicData = [
     musicPath: "./assets/music/LosTigresDelNorteLaMesaDelRincón.mp3",
   },
   {
-    posterUrl: "./assets/images/molotov puto.jpg",
+    posterUrl: "./assets/images/molotov Puto.jpg",
     title: "Puto",
     album: "¿Donde jugaran las niñas?",
     year: 1997,
