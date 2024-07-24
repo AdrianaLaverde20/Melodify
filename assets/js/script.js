@@ -27,7 +27,7 @@ const musicData = [
     album: "",
     year: 2015,
     artist: "Coffeling prole",
-    musicPath: "./assets/music/coffelingprleLaprolé.mp3",
+    musicPath: "./assets/music/coffelingprleLaProlé.mp3",
   },
   {
     posterUrl: "./assets/images/comprendes mendez.jpg",
